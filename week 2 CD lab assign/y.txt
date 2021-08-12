@@ -1,0 +1,38 @@
+ 
+ int : keyword 
+ main : identifier
+(
+) 
+ int : keyword 
+ a : identifier
+,
+ b : identifier
+;
+ a : identifier 
+1: number
+;
+ b : identifier 
+2: number
+;
+ a : identifier
+ relational operator <b
+ b : identifier
+;
+ printf : identifier
+(
+"
+ a : identifier
+ is : identifier
+ lesser : identifier
+ than : identifier
+ b : identifier
+"
+) 
+ if : keyword 
+ a : identifier
+ relational operator ==
+ b : identifier
+ b : identifier
++
+ a : identifier 
+ else : keyword 

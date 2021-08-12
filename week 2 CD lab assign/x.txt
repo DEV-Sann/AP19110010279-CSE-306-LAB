@@ -1,0 +1,10 @@
+int main()
+int a,b;
+a=1;
+b=2;
+a<b;
+printf("a is lesser than b")
+if a==b 
+b+=a
+else
+/*Devendra sai*/
