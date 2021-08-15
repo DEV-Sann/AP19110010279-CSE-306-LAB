@@ -1,6 +1,4 @@
 Symbol Table: 
-int
 main
-int
 a
 b
