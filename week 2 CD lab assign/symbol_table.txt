@@ -2,3 +2,5 @@ Symbol Table:
 main
 a
 b
+printf
+less than 
